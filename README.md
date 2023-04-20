@@ -4,10 +4,10 @@
 
 #[Nescafe Product Analysis](https://user-images.githubusercontent.com/107446050/233482471-5894dd19-4924-40e3-ba75-32ef2fc71d5e.png)
 
-#[Product Analysis Power BI](https://user-images.githubusercontent.com/107446050/233482531-56029434-44b3-42d4-be4d-6b40bf8fde21.png)
+#[Office Supply Sales - Product Analysis](https://user-images.githubusercontent.com/107446050/233484683-502506d0-20d2-4316-8d81-d3d819365737.png)
 
-#[Segment Analysis Power BI](https://user-images.githubusercontent.com/107446050/233482605-cd5632a5-8a78-46d7-ba34-b2c7ab1ff0b4.png)
+#[Office Supply Sales -  Segment Analysis](https://user-images.githubusercontent.com/107446050/233484754-ff9560d5-7459-4754-bd9f-d70642a93f2e.png)
 
-#[State Analysis Power BI](https://user-images.githubusercontent.com/107446050/233482703-4550f286-9ffc-49ac-ad3e-f9073ba6686f.png)
+#[Office Supply Sales - State Analysis](https://user-images.githubusercontent.com/107446050/233484813-ae08d2c4-cf0c-42d9-bb9c-4d0321b2bcba.png)
 
-#[Tax Analysis Power BI](https://user-images.githubusercontent.com/107446050/233482844-436d99c8-4916-4253-98cf-91829889e639.png)
+#[Office Supply Sales - Tax Analysis](https://user-images.githubusercontent.com/107446050/233484886-19311bd7-1f80-47a3-bf25-ec826c6934e8.png)
