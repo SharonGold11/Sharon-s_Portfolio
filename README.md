@@ -1,2 +1,3 @@
-# Sharon-s_Portfolio
-Analytics Portfolio
+# Sharon's Portfolio
+
+# [Project 1: Adidas Sales Analysis] 
