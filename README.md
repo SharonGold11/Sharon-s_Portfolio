@@ -5,7 +5,7 @@
 #[Nescafe Product Analysis](https://user-images.githubusercontent.com/107446050/233482471-5894dd19-4924-40e3-ba75-32ef2fc71d5e.png)
 
 
-#[Office Supply Sales Analysis][^1]:As part of my learning journey with Dataleum I worked on this project.
+#[Office Supply Sales Analysis] [^1]:As part of my learning journey with Dataleum I worked on this project.
 The goal of this project was to analyze office supply sales dataset ;
 -To give an Executive summary of what's happening in the business in each state , segment and product.
 -To determine which products are key performance drivers and also help the business make decisions on which products should be discontinued.
