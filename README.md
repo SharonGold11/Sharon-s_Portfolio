@@ -2,10 +2,19 @@
 
 #[Adidas Sales Analysis](https://user-images.githubusercontent.com/107446050/233481712-3d82e730-cc59-4634-85a0-3d4e9e989e03.png)
 
+This is an Adidas Sales Analysis with the dataset gotten from Kaggle.
+The goal was to analyze what was going on with Adidas products distributions between 2020 - 2021.
+I analyzed the following using Microsoft Power Bi.
+1. Units sold for each product and sales method used.
+2. Retailer's unit orders.
+3. Revenue and Total cost for each product and sales method used.
+4. Revenue and Profit Trend for the duration.
+
+
 #[Nescafe Product Analysis](https://user-images.githubusercontent.com/107446050/233482471-5894dd19-4924-40e3-ba75-32ef2fc71d5e.png)
 
 
-#[Office Supply Sales Analysis]:As part of my learning journey with Dataleum I worked on this project.
+#[Office Supply Sales Analysis]: As part of my learning journey with Dataleum I worked on this project.
 The goal of this project was to analyze office supply sales dataset ;
 -To give an Executive summary of what's happening in the business in each state , segment and product.
 -To determine which products are key performance drivers and also help the business make decisions on which products should be discontinued.
