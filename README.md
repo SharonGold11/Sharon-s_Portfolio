@@ -6,7 +6,7 @@
 
 
 #[Office Supply Sales Analysis]
- [^1] As part of my learning journey with Dataleum I worked on this project.
+[^1]:As part of my learning journey with Dataleum I worked on this project.
 The goal of this project was to analyze office supply sales dataset ;
 -To give an Executive summary of what's happening in the business in each state , segment and product.
 -To determine which products are key performance drivers and also help the business make decisions on which products should be discontinued.
