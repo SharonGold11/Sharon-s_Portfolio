@@ -16,7 +16,6 @@ I analyzed the following using Microsoft Power Bi.
 [image](https://user-images.githubusercontent.com/107446050/233796905-20d64a98-2f49-4a5d-b4b6-813717e86e02.png)
 
 
-
 #[Office Supply Sales - Product Analysis](https://user-images.githubusercontent.com/107446050/233484683-502506d0-20d2-4316-8d81-d3d819365737.png)
 
 As part of my learning journey with Dataleum I worked on this project.
