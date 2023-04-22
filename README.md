@@ -13,7 +13,7 @@ I analyzed the following using Microsoft Power Bi.
 
 #[Nescafe Product Analysis](https://user-images.githubusercontent.com/107446050/233482471-5894dd19-4924-40e3-ba75-32ef2fc71d5e.png)
 
-[image](https://user-images.githubusercontent.com/107446050/233796833-c7e190e0-9f0b-4f77-bb22-43a43d8d0bae.png)
+[image](https://user-images.githubusercontent.com/107446050/233796905-20d64a98-2f49-4a5d-b4b6-813717e86e02.png)
 
 
 
