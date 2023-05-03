@@ -47,4 +47,5 @@ At the end of my analysis, I designed this dashboard to showcase the insights an
 #[Suicide Rate Overview 1985 - 2020 Insights](https://user-images.githubusercontent.com/107446050/235790944-73fb81de-de58-4227-976a-b2ee166116f3.png)
 
 #[US Tech Companies Overview 2022 - 2023](https://user-images.githubusercontent.com/107446050/235791550-5ee1f56d-8bd1-4072-9e8d-d7d0fb33fb46.png)
+
 #[US Tech Companies Overview 2022 - 2023 Insights](https://user-images.githubusercontent.com/107446050/235791606-63b4ab3d-4084-42c7-993e-c8ed95165fa4.png)
